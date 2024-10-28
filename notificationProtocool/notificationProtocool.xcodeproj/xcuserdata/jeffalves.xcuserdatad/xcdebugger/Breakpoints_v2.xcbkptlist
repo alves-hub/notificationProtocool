@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FB64E6F-D51E-47B4-AE7D-D415D5219BBE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DB3ABA9-88E9-416F-A884-9EF9306788B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notificationProtocool/SelectionVC/SelectionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "TappedMacbookButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DB3ABA9-88E9-416F-A884-9EF9306788B0 - 62d599ed65d22bc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notificationProtocool.SelectionVC.TappedMacbookButton() -&gt; ()"
+                  moduleName = "notificationProtocool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/notificationProtocool/notificationProtocool/notificationProtocool/SelectionVC/SelectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  uuid = "9DB3ABA9-88E9-416F-A884-9EF9306788B0 - 62d599ed65d22be3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notificationProtocool.SelectionVC.TappedMacbookButton() -&gt; ()"
+                  moduleName = "notificationProtocool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/notificationProtocool/notificationProtocool/notificationProtocool/SelectionVC/SelectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "485">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "143438B4-D7F3-4EA9-A7BE-758692FFA810"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notificationProtocool/SelectionVC/SelectionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "TappedImacButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "143438B4-D7F3-4EA9-A7BE-758692FFA810 - c4bfb3497e530ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notificationProtocool.SelectionVC.TappedImacButton() -&gt; ()"
+                  moduleName = "notificationProtocool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/notificationProtocool/notificationProtocool/notificationProtocool/SelectionVC/SelectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "469">
+               </Location>
+               <Location
+                  uuid = "143438B4-D7F3-4EA9-A7BE-758692FFA810 - c4bfb3497e530ba2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "notificationProtocool.SelectionVC.TappedImacButton() -&gt; ()"
+                  moduleName = "notificationProtocool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jeffalves/EstudoMobileiOS/notificationProtocool/notificationProtocool/notificationProtocool/SelectionVC/SelectionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F9CF32B-29B4-48E7-A261-FB4159CBF9E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notificationProtocool/SelectionVC/SelectionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "TappedMacbookButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8913B3DC-4E32-49CB-8241-8EBD7C1E0EB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "notificationProtocool/SelectionVC/SelectionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "TappedMacbookButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
